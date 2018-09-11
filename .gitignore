@@ -1,3 +1,10 @@
+# Data folder
+data/*
+
+# IDEA
+.idea/*
+*.iml
+
 # Compiled class file
 *.class
 
